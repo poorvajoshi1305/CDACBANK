@@ -1,0 +1,10 @@
+.main-footer {
+    color: rgb(224, 217, 217);
+    background-color: #1d191d;
+    background-color: rgb(53, 53, 174);
+    padding-top: 1em;
+    /*position: fixed;*/
+    bottom: 0;
+    width: 100rem;
+    height: 12%;
+}
